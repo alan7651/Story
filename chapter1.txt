@@ -1,0 +1,1 @@
+cant find the directory of vscode.app, so i drag and drop from the finder to the vscode, is that ok?
